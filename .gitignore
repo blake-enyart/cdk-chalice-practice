@@ -20,6 +20,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.venv/
 
 # CDK Context & Staging files
 .cdk.staging/
